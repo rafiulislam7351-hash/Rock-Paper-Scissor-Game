@@ -22,6 +22,7 @@ elif computer == 0 and player_number == 1:
 elif computer == 0 and player_number == -1:
     print("You Lose!")
 elif computer == player_number:
-    print("Draw (>_<)")
+    print("It's a Draw (>_<)!Keep Trying")
 else:
-    print("Keep trying!")
+
+    print("Better Luck Next Time!")
